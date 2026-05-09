@@ -41,6 +41,7 @@ $$\frac{d}{dt}f(t) = \lim_{\delta \to 0}\frac{f(t+\delta) - f(t)}{\delta}$$
 $$\frac{d^2}{dt^2}f(t) = \lim_{\delta \to 0}\frac{f(t+\delta) - 2f(t) + f(t-\delta)}{\delta^2}$$
 
 получим для одной из координат: 
+
 $$\frac{x(t+\delta) - 2x(t) + x(t-\delta)}{\delta^2} = -\frac{gx(t)}{(x^2(t)+y^2(t))^{3/2}} - \alpha\frac{x(t+\delta)-x(t)}{\delta}$$
 
 откуда: 
