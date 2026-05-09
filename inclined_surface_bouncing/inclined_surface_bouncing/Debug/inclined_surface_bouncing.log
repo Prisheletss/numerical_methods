@@ -1,0 +1,12 @@
+﻿  Source.c
+D:\GitHub\numerical_methods\inclined_surface_bouncing\inclined_surface_bouncing\Source.c(12,19): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+D:\GitHub\numerical_methods\inclined_surface_bouncing\inclined_surface_bouncing\Source.c(27,26): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\GitHub\numerical_methods\inclined_surface_bouncing\inclined_surface_bouncing\Source.c(28,26): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\GitHub\numerical_methods\inclined_surface_bouncing\inclined_surface_bouncing\Source.c(49,77): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\GitHub\numerical_methods\inclined_surface_bouncing\inclined_surface_bouncing\Source.c(50,23): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\GitHub\numerical_methods\inclined_surface_bouncing\inclined_surface_bouncing\Source.c(52,81): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\GitHub\numerical_methods\inclined_surface_bouncing\inclined_surface_bouncing\Source.c(53,33): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\GitHub\numerical_methods\inclined_surface_bouncing\inclined_surface_bouncing\Source.c(55,75): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\GitHub\numerical_methods\inclined_surface_bouncing\inclined_surface_bouncing\Source.c(56,31): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\GitHub\numerical_methods\inclined_surface_bouncing\inclined_surface_bouncing\Source.c(26,1): warning C4305: инициализация: усечение из "double" в "float"
+  inclined_surface_bouncing.vcxproj -> D:\GitHub\numerical_methods\inclined_surface_bouncing\Debug\inclined_surface_bouncing.exe
