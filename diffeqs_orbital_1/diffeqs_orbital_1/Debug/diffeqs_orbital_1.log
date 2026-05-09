@@ -1,7 +1,0 @@
-﻿  Source.c
-D:\проги\языки\C\изучение тем\diffeqs_orbital_1\diffeqs_orbital_1\Source.c(20,26): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-D:\проги\языки\C\изучение тем\diffeqs_orbital_1\diffeqs_orbital_1\Source.c(21,26): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-D:\проги\языки\C\изучение тем\diffeqs_orbital_1\diffeqs_orbital_1\Source.c(30,72): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-D:\проги\языки\C\изучение тем\diffeqs_orbital_1\diffeqs_orbital_1\Source.c(31,72): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-D:\проги\языки\C\изучение тем\diffeqs_orbital_1\diffeqs_orbital_1\Source.c(19,1): warning C4305: инициализация: усечение из "double" в "float"
-  diffeqs_orbital_1.vcxproj -> D:\проги\языки\C\изучение тем\diffeqs_orbital_1\Debug\diffeqs_orbital_1.exe
