@@ -23,7 +23,7 @@ int main(int argc, char argv[]) {
 
 	printf("procces started");
 
-	float x_1 = 0, y_1 = 0, d = 0.001f, a = 0.01f, f = M_PI/4, b = -M_PI/6, v = 15, g = 10, x_2, y_2, x, y, x_3, y_3, x_4, y_4;
+	float x_1 = 0, y_1 = 0, d = 0.001f, a = 0.1f, f = M_PI/4, b = -M_PI/6, v = 15, g = 10, x_2, y_2, x, y, x_3, y_3, x_4, y_4;
 	x = x_1 + v * d * cos(f);
 	y = y_1 + v * d * sin(f);
 
@@ -31,7 +31,7 @@ int main(int argc, char argv[]) {
 	fprintf(file, "%f %f\n%f %f\n", x_1, y_1, x, y);
 
 	int bounces = 0, i = 0;
-	while ((y >= curve(x, b)) && (i < 8000)) {
+	while ((y >= curve(x, b)) && (i < 10000)) {
 		i++;
 		x_2 = (x * (2 + a * d) - x_1) / (1 + a * d);
 		y_2 = (y * (2 + a * d) - y_1 - g * d * d) / (1 + a * d);
