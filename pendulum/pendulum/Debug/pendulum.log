@@ -1,0 +1,4 @@
+﻿  Source.c
+D:\GitHub\numerical_methods\pendulum\pendulum\Source.c(28,53): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\GitHub\numerical_methods\pendulum\pendulum\Source.c(21,1): warning C4305: инициализация: усечение из "double" в "float"
+  pendulum.vcxproj -> D:\GitHub\numerical_methods\pendulum\Debug\pendulum.exe
