@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\numerical_methods\\sliding_pendulum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D902B8B1-138E-4D8B-B86B-7ACC25404E81}|sliding_pendulum\\sliding_pendulum.vcxproj|D:\\GitHub\\numerical_methods\\sliding_pendulum\\sliding_pendulum\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D902B8B1-138E-4D8B-B86B-7ACC25404E81}|sliding_pendulum\\sliding_pendulum.vcxproj|solutionrelative:sliding_pendulum\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\GitHub\\numerical_methods\\sliding_pendulum\\sliding_pendulum\\Source.cpp",
+              "RelativeDocumentMoniker": "sliding_pendulum\\Source.cpp",
+              "ToolTip": "D:\\GitHub\\numerical_methods\\sliding_pendulum\\sliding_pendulum\\Source.cpp",
+              "RelativeToolTip": "sliding_pendulum\\Source.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-13T15:59:01.211Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

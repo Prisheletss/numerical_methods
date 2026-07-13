@@ -1,0 +1,9 @@
+﻿  Source.cpp
+D:\GitHub\numerical_methods\sliding_pendulum\sliding_pendulum\Source.cpp(21,12): warning C4305: инициализация: усечение из "double" в "float"
+D:\GitHub\numerical_methods\sliding_pendulum\sliding_pendulum\Source.cpp(24,17): warning C4477: "fprintf": в строке форматирования "%f" требуется аргумент типа "double", но вариативный аргумент "3" имеет тип "int"
+D:\GitHub\numerical_methods\sliding_pendulum\sliding_pendulum\Source.cpp(24,17): warning C4477: "fprintf": в строке форматирования "%f" требуется аргумент типа "double", но вариативный аргумент "4" имеет тип "int"
+D:\GitHub\numerical_methods\sliding_pendulum\sliding_pendulum\Source.cpp(30,33): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\GitHub\numerical_methods\sliding_pendulum\sliding_pendulum\Source.cpp(31,24): warning C4244: /=: преобразование "double" в "float", возможна потеря данных
+D:\GitHub\numerical_methods\sliding_pendulum\sliding_pendulum\Source.cpp(34,31): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\GitHub\numerical_methods\sliding_pendulum\sliding_pendulum\Source.cpp(35,10): warning C4244: /=: преобразование "double" в "float", возможна потеря данных
+  sliding_pendulum.vcxproj -> D:\GitHub\numerical_methods\sliding_pendulum\x64\Debug\sliding_pendulum.exe
