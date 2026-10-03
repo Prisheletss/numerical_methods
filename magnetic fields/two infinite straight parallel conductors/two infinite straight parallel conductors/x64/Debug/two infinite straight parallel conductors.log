@@ -1,0 +1,6 @@
+﻿  Source.c
+D:\GitHub\numerical_methods\magnetic fields\two infinite straight parallel conductors\two infinite straight parallel conductors\Source.c(30,8): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\GitHub\numerical_methods\magnetic fields\two infinite straight parallel conductors\two infinite straight parallel conductors\Source.c(31,20): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\GitHub\numerical_methods\magnetic fields\two infinite straight parallel conductors\two infinite straight parallel conductors\Source.c(35,14): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\GitHub\numerical_methods\magnetic fields\two infinite straight parallel conductors\two infinite straight parallel conductors\Source.c(22,27): warning C4101: handler: неиспользованная локальная переменная
+  two infinite straight parallel conductors.vcxproj -> D:\GitHub\numerical_methods\magnetic fields\two infinite straight parallel conductors\x64\Debug\two infinite straight parallel conductors.exe
