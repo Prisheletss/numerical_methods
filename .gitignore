@@ -1,0 +1,12 @@
+vs
+.vs
+*.vs
+*/vs
+*/.vs
+*/*.vs
+xlsx
+.xlsx
+*.xlsx
+*/xlsx
+*/.xlsx
+*/*.xlsx
